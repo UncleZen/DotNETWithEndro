@@ -5,8 +5,12 @@ namespace Intro
 {
 	public class Person
 	{
-		public Person()
+
+		public Person(string name, DateTime dob, string countyOfOrigin)
 		{
+			Name = name;
+			DateOfBirth = dob;
+			CountryOfOrigin = countyOfOrigin;
 		}
 
 		public string Name { get; set; }

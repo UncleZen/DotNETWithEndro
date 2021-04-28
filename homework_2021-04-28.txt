@@ -1,0 +1,29 @@
+﻿1. Create a new project of type Library named DotNetWithEndro.HW20210428
+
+1.1 In the newly created project add a class called MathHelper
+
+1.2. In the newly created class add the following methods:
+
+    Add
+    This method takes in two arguments of type integer and returns the sum of the argumets
+
+    Subtract
+    This method takes in two arguments of type integer and returns the difference of the arguments
+
+    Multiply
+    This method takes in two arguments of type integer and returns the product of the arguments
+
+    Devide
+    This method takes in two arguments of type integer and returns the quotient of the arguments
+
+
+
+2. It is time to test our math helper class. In order to test our class add a new project of type console named DotNetWithEndro.HW20210428.TestApp. 
+
+2.1 Add to the console app project a reference to the project DotNetWithEndro.HW20210428
+
+2.2 In the Program class' method Main add the neccessary code to test your MathHelper class.
+
+
+
+3. What is a better way test your code.

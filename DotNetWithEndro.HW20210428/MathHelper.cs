@@ -23,7 +23,7 @@ namespace DotNetWithEndro.HW20210428
 
 		public int Sub(int number1, int number2)
 		{
-			var diff = number1 + number2;
+			var diff = number1 - number2;
 			return diff;
 		}
 

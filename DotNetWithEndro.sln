@@ -16,6 +16,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork", "HomeWork", "{A7
 		homework_2021-04-28.txt = homework_2021-04-28.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWithEndro.HW20210428", "DotNetWithEndro.HW20210428\DotNetWithEndro.HW20210428.csproj", "{7C27F9A0-65C9-4C11-BC82-41055FE59D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWithEndro.HW20210428.TestApp", "DotNetWithEndro.HW20210428.TestApp\DotNetWithEndro.HW20210428.TestApp.csproj", "{3CA295FB-B74D-48DA-98F8-E390E80396C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWithEndro.HW20210428.UnitTests", "DotNetWithEndro.HW20210428.UnitTests\DotNetWithEndro.HW20210428.UnitTests.csproj", "{32F980B1-A21A-4017-A853-AC69EFADCD0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +44,18 @@ Global
 		{02C1A9EE-EBC9-464D-A237-88E732B5A45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02C1A9EE-EBC9-464D-A237-88E732B5A45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02C1A9EE-EBC9-464D-A237-88E732B5A45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C27F9A0-65C9-4C11-BC82-41055FE59D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C27F9A0-65C9-4C11-BC82-41055FE59D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C27F9A0-65C9-4C11-BC82-41055FE59D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C27F9A0-65C9-4C11-BC82-41055FE59D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA295FB-B74D-48DA-98F8-E390E80396C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA295FB-B74D-48DA-98F8-E390E80396C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA295FB-B74D-48DA-98F8-E390E80396C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA295FB-B74D-48DA-98F8-E390E80396C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F980B1-A21A-4017-A853-AC69EFADCD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F980B1-A21A-4017-A853-AC69EFADCD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F980B1-A21A-4017-A853-AC69EFADCD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F980B1-A21A-4017-A853-AC69EFADCD0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

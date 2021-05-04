@@ -1,0 +1,21 @@
+﻿1. Create a new project of type Library named DotNetWithEndro.HW20210504
+
+1.1 In the newly created project add a class called MathHelper
+
+1.2. In the newly created class add one single method named Calculate. This method that performs one of the math operations addition,
+     subtraction, multiplication or division on the first two arguments of this method. The third argument determins which math operation
+     should be performed.
+
+    
+
+
+
+2. It is time to test our math helper class. In order to test our class add a new project of type console named DotNetWithEndro.HW20210504.TestApp. 
+
+2.1 Add to the console app project a reference to the project DotNetWithEndro.HW20210504
+
+2.2 In the Program class' method Main add the neccessary code to test your MathHelper class.
+
+
+
+3. What is a better way test your code?

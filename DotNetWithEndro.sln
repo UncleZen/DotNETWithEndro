@@ -14,6 +14,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork", "HomeWork", "{A7BD062D-0A4F-4AB4-A8C3-D69F0A17D40D}"
 	ProjectSection(SolutionItems) = preProject
 		homework_2021-04-28.txt = homework_2021-04-28.txt
+		homework_2021-05-04.txt = homework_2021-05-04.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWithEndro.HW20210428", "DotNetWithEndro.HW20210428\DotNetWithEndro.HW20210428.csproj", "{7C27F9A0-65C9-4C11-BC82-41055FE59D07}"

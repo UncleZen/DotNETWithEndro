@@ -22,33 +22,45 @@ namespace DotNetWithEndro.HW20210517
         public int LargestNumber(int[] numbers)
         {
 
-            var max = numbers[0];
-            foreach (var item in numbers)
+            if (numbers.Length > 0)
             {
-                if (max < item)
+                var max = numbers[0];
+                foreach (var item in numbers)
                 {
-                    max = item;
+                    if (max < item)
+                    {
+                        max = item;
+                    }
                 }
-            } 
-            return max;
-
-
-
+                return max;
+            }
+            else
+			{
+                throw new Exception("Empty List");
+			}
 
         }
+
+
+
         public int SmallestNumber(int[] numbers)
         {
-
-            var min = numbers[0];
-            foreach (var item in numbers)
-            {
-                if (min > item)
+            if (numbers.Length > 0)
+			{
+                var min = numbers[0];
+                foreach (var item in numbers)
                 {
-                    min = item;
-                }           
-            }
-            return min;
-
+                    if (min > item)
+                    {
+                        min = item;
+                    }           
+                }
+                return min;
+			}
+            else
+			{
+                throw new Exception("Empty list");
+			}
         }
 
     }

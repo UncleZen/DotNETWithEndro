@@ -10,10 +10,7 @@ namespace DotNetWithEndro.HW20210517.TestApp
         {
             var listhelper = new ListHelper();
 
-            var myarray = new int[5]
-            {
-                3,6,9,12,22
-            };
+            var myarray = new int[0];
 
             var sum = listhelper.SumOfAllItems(myarray);
             var max = listhelper.LargestNumber(myarray);

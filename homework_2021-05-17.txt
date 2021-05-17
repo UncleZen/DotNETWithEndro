@@ -1,0 +1,22 @@
+﻿1. Create a new project of type Library named DotNetWithEndro.HW20210517
+
+1.1 In the newly created project add a class called ListHelper
+
+1.2. In the newly created class add the following methods:
+
+    * A method that takes in an array of numbers and calculates the sum of all items
+    * A method that takes in an array of numbers and find the largest number
+    * A method that takes in an array of numbers and find the smallest number
+    
+
+
+
+2. It is time to test our math helper class. In order to test our class add a new project of type console named DotNetWithEndro.HW20210517.TestApp. 
+
+2.1 Add to the console app project a reference to the project DotNetWithEndro.HW20210517
+
+2.2 In the Program class' method Main add the neccessary code to test your ListHelper class.
+
+
+
+3. What is a better way test your code?

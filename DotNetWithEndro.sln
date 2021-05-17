@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork", "HomeWork", "{A7
 	ProjectSection(SolutionItems) = preProject
 		homework_2021-04-28.txt = homework_2021-04-28.txt
 		homework_2021-05-04.txt = homework_2021-05-04.txt
+		homework_2021-05-17.txt = homework_2021-05-17.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetWithEndro.HW20210428", "DotNetWithEndro.HW20210428\DotNetWithEndro.HW20210428.csproj", "{7C27F9A0-65C9-4C11-BC82-41055FE59D07}"

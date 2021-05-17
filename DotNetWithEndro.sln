@@ -24,9 +24,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetWithEndro.HW20210428.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetWithEndro.HW20210428.UnitTests", "DotNetWithEndro.HW20210428.UnitTests\DotNetWithEndro.HW20210428.UnitTests.csproj", "{32F980B1-A21A-4017-A853-AC69EFADCD0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWithEndro.HW20210504", "DotNetWithEndro.HW20210504\DotNetWithEndro.HW20210504.csproj", "{9F923ABB-17CB-40FE-893E-17DCB552C294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetWithEndro.HW20210504", "DotNetWithEndro.HW20210504\DotNetWithEndro.HW20210504.csproj", "{9F923ABB-17CB-40FE-893E-17DCB552C294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWithEndro.HW20210504.TestApp", "DotNetWithEndro.HW20210504.TestApp\DotNetWithEndro.HW20210504.TestApp.csproj", "{DADCB657-C621-46EE-9343-EBF66063F653}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetWithEndro.HW20210504.TestApp", "DotNetWithEndro.HW20210504.TestApp\DotNetWithEndro.HW20210504.TestApp.csproj", "{DADCB657-C621-46EE-9343-EBF66063F653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWithEndro.HW20210517", "DotNetWithEndro.HW20210517\DotNetWithEndro.HW20210517.csproj", "{F88CFD18-598D-4EA9-B38B-55C8E743FE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetWithEndro.HW20210517.TestApp", "DotNetWithEndro.HW20210517.TestApp\DotNetWithEndro.HW20210517.TestApp.csproj", "{F8E9302B-CC28-455C-BAB9-2099A3C3D799}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,9 +74,20 @@ Global
 		{DADCB657-C621-46EE-9343-EBF66063F653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DADCB657-C621-46EE-9343-EBF66063F653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DADCB657-C621-46EE-9343-EBF66063F653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88CFD18-598D-4EA9-B38B-55C8E743FE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88CFD18-598D-4EA9-B38B-55C8E743FE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88CFD18-598D-4EA9-B38B-55C8E743FE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88CFD18-598D-4EA9-B38B-55C8E743FE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E9302B-CC28-455C-BAB9-2099A3C3D799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E9302B-CC28-455C-BAB9-2099A3C3D799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E9302B-CC28-455C-BAB9-2099A3C3D799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E9302B-CC28-455C-BAB9-2099A3C3D799}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F88CFD18-598D-4EA9-B38B-55C8E743FE1B} = {A7BD062D-0A4F-4AB4-A8C3-D69F0A17D40D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {42B18E80-38D6-42FF-83DF-5C122AE68DB0}
